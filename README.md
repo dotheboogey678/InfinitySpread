@@ -2,6 +2,8 @@
 
 > [!NOTE]
 > **Original concept credited to [Max-RM](https://github.com/Max-RM).**
+> 
+> This mod is a fork based on work by **[RadiantByte](https://github.com/RadiantByte)**.
 
 > [!CAUTION]
 > ⚠️ **ENTER AT YOUR OWN RISK — InfinitySpread does NOT ask. It multiplies.**
