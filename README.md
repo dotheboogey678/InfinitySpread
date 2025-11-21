@@ -1,3 +1,8 @@
+# InfinitySpread
+
+> [!NOTE]
+> **Original concept credited to [Max-RM](https://github.com/Max-RM).**
+
 > [!CAUTION]
 > ⚠️ **ENTER AT YOUR OWN RISK — InfinitySpread does NOT ask. It multiplies.**
 >
