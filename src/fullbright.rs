@@ -1,4 +1,4 @@
-#[cfg(target_arch = "aarch64")]
+#[cfg(target_arch = "x86_64")]
 const SMALL_PATCH_SIGNATURES: &[&str] = &[
     "E3 03 19 2A E4 03 14 AA A5 00 80 52 08 05 00 51", //4 places to patch to make sure the liquid spreads infinity in all 4 directions.
     "E3 03 19 2A 29 05 00 51 E4 03 14 AA 65 00 80 52", //This is only for 1.21.123 arm64. I don't know if it will work for previous versions.
